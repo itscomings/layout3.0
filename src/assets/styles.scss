@@ -1,0 +1,15 @@
+@import './node_modules/vuetify/_styles.scss';
+@import "./variables.scss";
+
+
+
+.v-card {
+  box-shadow: none;
+}
+.v-btn {
+  box-shadow: none;
+}
+
+.login-card{
+  width: 360px;
+}
