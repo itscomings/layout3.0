@@ -69,7 +69,7 @@
           </p>
           <div class="side-context__bar">
             <v-img alt="logo"
-                   src="@/assets/Homepage.jpg"
+                   src="@/assets/side-context.svg"
                    class="mt-8 ml-16"
             />
           </div>
